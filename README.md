@@ -2,3 +2,5 @@
 A wallet for generating Wyoming tokens
 
 See a working demo at https://wyo-token.vercel.app/
+
+![Wyoming LLC Token Generator](/public/screen-shot.png)
